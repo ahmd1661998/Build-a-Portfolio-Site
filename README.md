@@ -1,12 +1,25 @@
-# Udacity Front-End Web Developer Nanodegree
+# Build A Portfolio Website
 
-## Part 1: Web Foundations
+**Summary:**
 
-### Project 1: Build a Portfolio Site
+This webpage was created specifically for [Udacity's Front End Developer Developer Nanodegree](https://www.udacity.com).
 
-- This project is a part of Udacity's Front-End Web Developer Nanodegree. It is uploaded on GitHub as a separate repository for grading purposes.
-- I've decided not to use any framework like Bootstrap so I can practice coding with plain HTML and CSS.
+**The application offers the following features:**
 
-- Site can be seen on [GitHub pages]().
+* Creating a web page that is replicated for the project requirement.
+* Bold/Italiacs
+* Image Views
 
-- After the project got reviewed and passed, I've update it a bit per review suggestions, the major difference being that instead of the flexbox, I positioned elements using the CSS Grid.
+**Technologies Used In Application:**
+
+* HTML
+* CSS
+
+**Testing The Web Page:**
+
+* Download the project to your computer.
+* Right click and open with Google Chrome browser.
+
+**Closing:**
+
+In conclusion, I have learned a lot by working on this project. I am confident that I mastered HTML, as well as CSS and am able to successfully create web pages using different features.
